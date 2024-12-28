@@ -1,0 +1,58 @@
+vmanager: *I,MERGL1: Preparing icc target model ...
+vmanager: *I,MERGL1: Doing model union ...
+vmanager: *I,MERGL2:   With primary run (/home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/model_dir): /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/model_dir/icc_4e8e3c4e_7997b529.ucm
+vmanager: *I,MERGL1: Target model generated successfully.
+vmanager: *I,MERGL1: Projecting data into the target model ...
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_1/cov_work/scope/test_sv-1913641339:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_2/cov_work/scope/test_sv-34592328:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_3/cov_work/scope/test_sv200299286:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_4/cov_work/scope/test_sv-68133947:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_5/cov_work/scope/test_sv267410831:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_6/cov_work/scope/test_sv1072710892:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_7/cov_work/scope/test_sv-2012459405:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_8/cov_work/scope/test_sv-1844677581:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_9/cov_work/scope/test_sv688684255:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_10/cov_work/scope/test_sv1259103313:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_11/cov_work/scope/test_sv1686924782:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_12/cov_work/scope/test_sv713921873:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_13/cov_work/scope/test_sv-2121425909:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_14/cov_work/scope/test_sv227378279:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_15/cov_work/scope/test_sv2072874792:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_16/cov_work/scope/test_sv944617471:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_17/cov_work/scope/test_sv-1907508043:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_18/cov_work/scope/test_sv-582111416:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_19/cov_work/scope/test_sv-1597123426:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_20/cov_work/scope/test_sv449698995:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_21/cov_work/scope/test_sv1976420584:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_22/cov_work/scope/test_sv-1137880633:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_23/cov_work/scope/test_sv1395482455:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_24/cov_work/scope/test_sv-1431485039:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/chain_0/all_test/run_25/cov_work/scope/test_sv-407992514:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL1: Writing icc model to /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/merged_ucds/default/1732847340780/icc_4e8e3c4e_7997b529.ucm(merged)
+vmanager: *I,MERGL1: Writing icc data to /home/grads/v/vn5526/616/labs/lab-10-MrRobot2308/work/sim/regression/htax_regress.vn5526.24_11_28_19_57_39_0525/merged_ucds/default/1732847340780/merged_tests/icc_4e8e3c4e_7997b529.ucd(merged)
+vmanager: *I,coverage.merge_op_done_no_warns: Merge operation (session runs merge) is done without any conflicts.
